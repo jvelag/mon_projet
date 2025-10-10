@@ -1,0 +1,17 @@
+# Entorno virtual de Python
+.venv/
+
+# Archivos compilados de Python
+__pycache__/
+
+# Archivos temporales y de configuración del editor/IDE
+*.swp
+*.swo
+.DS_Store
+
+# Archivos específicos que no quieres subir
+TPnewcodes4.py
+graph.py
+utils.py
+
+
