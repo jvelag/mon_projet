@@ -1,0 +1,15 @@
+# Ignorar archivos de entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Ignorar archivos de sistema
+.DS_Store
+
+# Ignorar archivos de IDE
+.idea/
+.vscode/
+
+# Ignorar archivos de datos o temporales
+*.tmp
+*.swp
